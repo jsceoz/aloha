@@ -75,10 +75,8 @@
             </div>
 
             <div v-if="stepIndex === 2" class="custom-form-wrapper">
-
+                <CustomForm/>
             </div>
-
-            <CustomForm/>
 
         </div>
     </div>
